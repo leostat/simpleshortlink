@@ -1,0 +1,8 @@
+PRAGMA foreign_keys=OFF;
+BEGIN TRANSACTION;
+
+CREATE Table Links(
+   lURL TEXT UNIQUE
+);
+
+COMMIT;
