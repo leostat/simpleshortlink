@@ -6,6 +6,7 @@ Why not? I couldnt find a shortner service which did what i wanted for free so i
 
 ## Commands
 ```
+any		: Create a link
 int 	: Goto the URL
 >int 	: Goto the URL
 ~int	: Get a href of the url and display what the link text is
